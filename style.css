@@ -60,6 +60,21 @@ body {
   --cor-base: #ff6347;
 }
 
+:root {
+  --cor-fundo: #CCCCCC;
+}
+
+.conteudo-principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
 
 
 
