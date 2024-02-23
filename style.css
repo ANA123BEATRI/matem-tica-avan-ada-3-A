@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --azul: #6FFF57;
+    --verde: #6FFF57;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -11,7 +11,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--preto);
+    color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
 
