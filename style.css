@@ -56,6 +56,11 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
+:root {
+  --cor-base: #ff6347;
+}
+
+
 
 
 
