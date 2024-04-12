@@ -20,9 +20,8 @@ const tempoObjetivo2 = new Date("2023-12-05T00:00:00");
 const tempoObjetivo3 = new Date("2023-12-30T00:00:00");
 const tempoObjetivo4 = new Date("2024-02-01T00:00:00");
 const tempoObjetivo5 = new Date("2023-12-30T00:00:00");
-const tempoObjetivo6 = new Date("2024-02-01T00:00:00");
 
-const tempos = [tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4,tempoObjetivo5,tempoObjetivo6];
+const tempos = [tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4,tempoObjetivo5];
 
 
 function calculaTempo(tempoObjetivo) {
